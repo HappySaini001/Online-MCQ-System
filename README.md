@@ -5,6 +5,9 @@
 2.Rules Page
 ![image alt](https://github.com/HappySaini001/Online-MCQ-System/blob/09d0a41b67f64e2684efc5169d77be467539cb71/Screenshot%202025-05-25%20175342.png)
 
+3.Start Quiz
+![image alt](https://github.com/HappySaini001/Online-MCQ-System/blob/540625ecd0fca84d65bba981392cf886f6835c8a/Screenshot%202025-05-25%20175353.png)
+
 
 
 
