@@ -2,6 +2,7 @@
 An Online Multiple Choice Quiz System developed in Java. This application allows users to take quizzes, view scores, and practice MCQs in various subjects. It features a clean interface, timed quizzes, and dynamic question loading.
 
 🚀 Features
+
 🔐 User login and registration (optional/local)
 📋 Admin panel to add, update, and delete questions
 🧠 Randomized questions from the database
@@ -11,6 +12,7 @@ An Online Multiple Choice Quiz System developed in Java. This application allows
 🎨 Simple and intuitive GUI (using Java Swing or JavaFX)
 
 🛠️ Technologies Used
+
 Java SE (Core Java)
 Java Swing / JavaFX (GUI)
 JDBC (if using MySQL)
