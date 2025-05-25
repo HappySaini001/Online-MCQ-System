@@ -23,7 +23,6 @@ Login Page
 
 
 
-
 An Online Multiple Choice Quiz System developed in Java. This application allows users to take quizzes, view scores, and practice MCQs in various subjects. It features a clean interface, timed quizzes, and dynamic question loading.
 
 🚀 Features
