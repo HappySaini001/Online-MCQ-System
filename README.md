@@ -1,8 +1,8 @@
-Login Page
+1.Login Page
 ![image alt](https://github.com/HappySaini001/Online-MCQ-System/blob/6d273c2e6cce1aa0532b01b4edbfed99b8464165/Screenshot%202025-05-25%20175329.png)
 
 
-Rules Page
+2.Rules Page
 ![image alt](https://github.com/HappySaini001/Online-MCQ-System/blob/09d0a41b67f64e2684efc5169d77be467539cb71/Screenshot%202025-05-25%20175342.png)
 
 
