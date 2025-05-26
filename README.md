@@ -9,7 +9,12 @@
 ![image alt](https://github.com/HappySaini001/Online-MCQ-System/blob/540625ecd0fca84d65bba981392cf886f6835c8a/Screenshot%202025-05-25%20175353.png)
 
 # Push the folder on github
+![image alt](https://github.com/HappySaini001/Online-MCQ-System/blob/553a2f8a5575e122d9c8ab11e4a22758dfd10450/Screenshot%202025-05-25%20174432.png)
+
+
+# Push Through gitbush
 ![image alt](https://github.com/HappySaini001/Online-MCQ-System/blob/dfaeee8037cbb76923625cfe7e7200a27c95e323/Screenshot%202025-05-25%20174444.png)
+
 
 
 
@@ -36,7 +41,7 @@
 
 An Online Multiple Choice Quiz System developed in Java. This application allows users to take quizzes, view scores, and practice MCQs in various subjects. It features a clean interface, timed quizzes, and dynamic question loading.
 
-🚀 Features
+# 🚀 Features
    🔐 User login and registration (optional/local)
 
    📋 Admin panel to add, update, and delete questions
@@ -51,13 +56,13 @@ An Online Multiple Choice Quiz System developed in Java. This application allows
 
     🎨 Simple and intuitive GUI (using Java Swing or JavaFX)
 
-🛠️ Technologies Used
+# 🛠️ Technologies Used
     Java SE (Core Java)
 
-   Java Swing / JavaFX (GUI)
+    Java Swing / JavaFX (GUI)
 
     JDBC (if using MySQL)
 
-   File I/O (if using local storage)
+    File I/O (if using local storage)
 
-   OOP Principles
+    OOP Principles
