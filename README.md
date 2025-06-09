@@ -26,8 +26,8 @@
 # Start Quiz
 ![image alt](https://github.com/HappySaini001/Online-MCQ-System/blob/8830be9473aa9ed6799faec53e6ad22f4511adf5/Screenshot%202025-06-09%20150344.png)
 
-# Instruction
-![image alt](https://github.com/HappySaini001/Online-MCQ-System/blob/b181a7298ff2263bb13571c8fcf3d6a40d2a6cbf/Screenshot%202025-06-09%20150314.png)
+# Result
+![image alt](https://github.com/HappySaini001/Online-MCQ-System/blob/889e958e5c90856be30d27d68965ca94a6fe755e/Screenshot%202025-06-09%20150357.png)
 
 # Instruction
 ![image alt](https://github.com/HappySaini001/Online-MCQ-System/blob/b181a7298ff2263bb13571c8fcf3d6a40d2a6cbf/Screenshot%202025-06-09%20150314.png)
