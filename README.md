@@ -34,4 +34,13 @@ A Java-based desktop application to manage quizzes and exams, designed for educa
 ---
 
 ## 🗃️ Project Structure
+QuizSystem/
+├── src/
+│ ├── ui/ // UI Components (LoginUI, AdminDashboard, etc.)
+│ ├── dao/ // Data Access Objects (UserDAO, QuestionDAO)
+│ ├── model/ // Model classes (User.java, Question.java)
+│ └── util/ // Utility (DBConnection.java)
+├── database/
+│ └── quiz_db.sql // SQL to create tables
+└── README.md
 
