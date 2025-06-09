@@ -2,8 +2,8 @@
 ![image alt](https://github.com/HappySaini001/Online-MCQ-System/blob/384bb4cd933694f6d3b7db672ee708980d25cbe0/Screenshot%202025-06-09%20145443.png)
 
 
-# Rules Page
-![image alt](https://github.com/HappySaini001/Online-MCQ-System/blob/09d0a41b67f64e2684efc5169d77be467539cb71/Screenshot%202025-05-25%20175342.png)
+# Student page
+![image alt](https://github.com/HappySaini001/Online-MCQ-System/blob/a2bda6e0d72f8692eb46b191ffed80d7c2d9c0c8/Screenshot%202025-06-09%20145500.png)
 
 # Start Quiz
 ![image alt](https://github.com/HappySaini001/Online-MCQ-System/blob/540625ecd0fca84d65bba981392cf886f6835c8a/Screenshot%202025-05-25%20175353.png)
