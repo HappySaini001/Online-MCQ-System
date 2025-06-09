@@ -29,8 +29,8 @@
 # Result
 ![image alt](https://github.com/HappySaini001/Online-MCQ-System/blob/889e958e5c90856be30d27d68965ca94a6fe755e/Screenshot%202025-06-09%20150357.png)
 
-# Instruction
-![image alt](https://github.com/HappySaini001/Online-MCQ-System/blob/b181a7298ff2263bb13571c8fcf3d6a40d2a6cbf/Screenshot%202025-06-09%20150314.png)
+# All Question
+![image alt](https://github.com/HappySaini001/Online-MCQ-System/blob/698d71da0e4bf9512279a2ea03a5c13f86eda794/Screenshot%202025-06-09%20153031.png)
 
 # Pull the folder on github
 ![image alt](https://github.com/HappySaini001/Online-MCQ-System/blob/dfaeee8037cbb76923625cfe7e7200a27c95e323/Screenshot%202025-05-25%20174444.png)
