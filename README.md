@@ -5,8 +5,8 @@
 # Student page
 ![image alt](https://github.com/HappySaini001/Online-MCQ-System/blob/a2bda6e0d72f8692eb46b191ffed80d7c2d9c0c8/Screenshot%202025-06-09%20145500.png)
 
-# Start Quiz
-![image alt](https://github.com/HappySaini001/Online-MCQ-System/blob/540625ecd0fca84d65bba981392cf886f6835c8a/Screenshot%202025-05-25%20175353.png)
+# Admin Home Page
+![image alt](https://github.com/HappySaini001/Online-MCQ-System/blob/9351dd9e24b2e1759637bf4ff1b1126cdd09f16f/Screenshot%202025-06-09%20145543.png)
 
 
 # Push Through gitbush
