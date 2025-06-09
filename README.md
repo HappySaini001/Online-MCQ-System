@@ -1,3 +1,8 @@
+# 🎓 Quiz or Exam Management System
+
+A Java-based desktop application to manage quizzes and exams, designed for educational institutions. It features **admin control** for adding and updating questions and **student access** to take quizzes and receive instant results.
+
+# 📸 Screen Shots
 # Interface
 ![image alt](https://github.com/HappySaini001/Online-MCQ-System/blob/384bb4cd933694f6d3b7db672ee708980d25cbe0/Screenshot%202025-06-09%20145443.png)
 
@@ -32,21 +37,13 @@
 # All Question
 ![image alt](https://github.com/HappySaini001/Online-MCQ-System/blob/698d71da0e4bf9512279a2ea03a5c13f86eda794/Screenshot%202025-06-09%20153031.png)
 
+# All Student Result
+![image alt](https://github.com/HappySaini001/Online-MCQ-System/blob/94fe1250e20cc89d5414b1c51034124baaec4320/Screenshot%202025-06-09%20153044.png)
+
 # Pull the folder on github
 ![image alt](https://github.com/HappySaini001/Online-MCQ-System/blob/dfaeee8037cbb76923625cfe7e7200a27c95e323/Screenshot%202025-05-25%20174444.png)
 
 
-
-
-
-
-
-
-
-
-# 🎓 Quiz or Exam Management System
-
-A Java-based desktop application to manage quizzes and exams, designed for educational institutions. It features **admin control** for adding and updating questions and **student access** to take quizzes and receive instant results.
 
 ---
 
