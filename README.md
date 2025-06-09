@@ -17,8 +17,8 @@
 # Update Question
 ![image alt](https://github.com/HappySaini001/Online-MCQ-System/blob/1e099b9d7a318e74c525f25576325440929c22c7/Screenshot%202025-06-09%20145633.png)
 
-# Push Through gitbush
-![image alt](https://github.com/HappySaini001/Online-MCQ-System/blob/553a2f8a5575e122d9c8ab11e4a22758dfd10450/Screenshot%202025-05-25%20174432.png)
+# Delete Question
+![image alt](https://github.com/HappySaini001/Online-MCQ-System/blob/485c83142adf6ebef4d573c5f84655e65b29d7ec/Screenshot%202025-06-09%20145720.png)
 
 # Push Through gitbush
 ![image alt](https://github.com/HappySaini001/Online-MCQ-System/blob/553a2f8a5575e122d9c8ab11e4a22758dfd10450/Screenshot%202025-05-25%20174432.png)
