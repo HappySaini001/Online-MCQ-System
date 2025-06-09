@@ -87,3 +87,43 @@ QuizSystem
 │ └── quiz_db.sql // SQL to create tables
 └── README.md
 
+# 🔑 Default Credentials
+Role	Username	Password
+Admin	admin	admin123
+Student	student1	pass123
+
+(Insert users into the users table manually for the first time.)
+
+# 🎯 Sample Use Case
+Admin logs in and adds new questions using a form.
+
+Student logs in, starts quiz, selects answers, and submits.
+
+System auto-evaluates and shows results.
+
+Results are saved in the database with timestamp.
+
+# 🔒 Security Notes
+Passwords stored in plaintext (can be upgraded to hashed).
+
+Role-based access to prevent unauthorized access.
+
+# 💡 Future Enhancements
+Add quiz categories (Math, Science, etc.)
+
+Timer for quiz
+
+Export results to PDF
+
+Mobile version with JavaFX or Android
+
+Email result notification
+
+Password encryption and OTP
+
+# 👨‍💻 Developer
+Name: Happy Saini
+
+License: MIT or Custom
+
+Contact: youremail@example.com
