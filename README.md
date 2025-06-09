@@ -20,8 +20,8 @@
 # Delete Question
 ![image alt](https://github.com/HappySaini001/Online-MCQ-System/blob/485c83142adf6ebef4d573c5f84655e65b29d7ec/Screenshot%202025-06-09%20145720.png)
 
-# Push Through gitbush
-![image alt](https://github.com/HappySaini001/Online-MCQ-System/blob/553a2f8a5575e122d9c8ab11e4a22758dfd10450/Screenshot%202025-05-25%20174432.png)
+# Instruction
+![image alt](https://github.com/HappySaini001/Online-MCQ-System/blob/b181a7298ff2263bb13571c8fcf3d6a40d2a6cbf/Screenshot%202025-06-09%20150314.png)
 
 
 # Pull the folder on github
